@@ -56,7 +56,7 @@ hr {
 }
 
 .navigation .nav-brand {
-    font-weight: bold
+    font-weight: bolder;
 }
 
 .navigation .nav-pills {
@@ -65,6 +65,10 @@ hr {
 
 .navigation .link {
     color: white;
+}
+
+.navigation .link-active {
+    font-style: bold;
 }
 
 .hero {
